@@ -1,0 +1,28 @@
+.container {
+  background-image: linear-gradient(125deg, #eb8b96, #a11424);
+  color: white;
+  padding: 3.9rem;
+  box-sizing: border-box;
+}
+.features {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 4em;
+}
+.featureContainer {
+  max-width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.25em;
+}
+.container h1 {
+  margin-bottom: 2em;
+}
+@media screen and (max-width: 900px) {
+  .features {
+    flex-direction: column;
+  }
+}

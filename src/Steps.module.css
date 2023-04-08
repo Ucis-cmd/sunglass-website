@@ -1,0 +1,13 @@
+.container {
+  background-image: linear-gradient(180deg, #eb8b96, #a11424);
+  color: white;
+  text-align: left;
+  padding: 5rem 1.5rem;
+  box-sizing: border-box;
+}
+.stepContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25em;
+  margin-top: 3em;
+}
