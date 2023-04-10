@@ -1,6 +1,6 @@
 {
   "name": "sunglass-website",
-  "homepage": "http://ucis-cmd.github.io/website-demo-sunglass",
+  "homepage": "http://ucis-cmd.github.io/sunglass-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
